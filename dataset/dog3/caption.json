@@ -1,0 +1,32 @@
+{
+    "00.jpg":
+    {
+        "Basalt_large": "person, an adoptable person in person, wa",
+        "Basalt_caption_coco_enrich": "A white poodle dog with a tag on its collar is standing on the ground."
+    },
+    "01.jpg":
+    {
+        "Basalt_large": "person at the top of the mountain",
+        "Basalt_caption_coco_enrich": "A white dog, which is a mammal, is sitting on the side of a mountain."
+    },
+    "02.jpg":
+    {
+        "Basalt_large": "a small white dog looks up at the camera while standing on a rocky river bed.",
+        "Basalt_caption_coco_enrich": "A white dog, which is a mammal, is standing on rocks with people in the background."
+    },
+    "03.jpg":
+    {
+        "Basalt_large": "a small white dog standing on a rock.",
+        "Basalt_caption_coco_enrich": "A white dog with a tag is standing on top of a rock."
+    },
+    "04.jpg":
+    {
+        "Basalt_large": "beach, person, great ocean view steps from the beach",
+        "Basalt_caption_coco_enrich": "A white dog is walking on the beach with a man in the background."
+    },
+    "05.jpg":
+    {
+        "Basalt_large": "a small white fluffy dog sits on a blue and white patterned blanket.",
+        "Basalt_caption_coco_enrich": "A white dog is sitting on top of a bed with a blue blanket."
+    }
+}

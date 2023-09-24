@@ -1,0 +1,22 @@
+{
+    "00.jpg":
+    {
+        "Basalt_large": "yellow rubber duck on the ground",
+        "Basalt_caption_coco_enrich": "A yellow rubber duck is sitting on the ground with gravel."
+    },
+    "01.jpg":
+    {
+        "Basalt_large": "a yellow rubber duck on a blue carpet",
+        "Basalt_caption_coco_enrich": "A yellow rubber duck with an orange beak is sitting on a blue carpet."
+    },
+    "02.jpg":
+    {
+        "Basalt_large": "'this is a plastic duck that i made for my son's birthday. he is a good little duck, he is a good little duck, he is a good little duck",
+        "Basalt_caption_coco_enrich": "A yellow rubber duck with an orange beak is sitting on the floor."
+    },
+    "03.jpg":
+    {
+        "Basalt_large": "rubber duck on the beach",
+        "Basalt_caption_coco_enrich": "A yellow rubber duck is sitting on top of a rock near the ocean."
+    }
+}

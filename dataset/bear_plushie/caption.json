@@ -1,0 +1,27 @@
+{
+    "00.jpg":
+    {
+        "Basalt_large": "teddy bear sitting on a rock",
+        "Basalt_caption_coco_enrich": "a brown teddy bear sitting on top of a rock."
+    },
+    "01.jpg":
+    {
+        "Basalt_large": "teddy bear with a bow",
+        "Basalt_caption_coco_enrich": "A brown teddy bear with a blue bow on its head is sitting on the edge of a river."
+    },
+    "02.jpg":
+    {
+        "Basalt_large": "teddy bear with a bandage on his head",
+        "Basalt_caption_coco_enrich": "A brown teddy bear with a blue bow on its head is sitting on the ground."
+    },
+    "03.jpg":
+    {
+        "Basalt_large": "walt disney world winnie the pooh teddy bear",
+        "Basalt_caption_coco_enrich": "A brown teddy bear with a blue bow on its head is sitting on the grass."
+    },
+    "04.jpg":
+    {
+        "Basalt_large": "build a bear brown teddy bear with blue bow",
+        "Basalt_caption_coco_enrich": "A brown teddy bear with a blue bow on its head sitting on the ground in front of a brick wall."
+    }
+}

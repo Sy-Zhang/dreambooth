@@ -1,0 +1,27 @@
+{
+    "00.jpg":
+    {
+        "Basalt_large": "person the robot toy 0",
+        "Basalt_caption_coco_enrich": "A white and blue robot toy is sitting on top of a gray couch."
+    },
+    "01.jpg":
+    {
+        "Basalt_large": "'this is the robot i'm working on.'",
+        "Basalt_caption_coco_enrich": "A white robot with blue accents is sitting on top of a wooden table."
+    },
+    "02.jpg":
+    {
+        "Basalt_large": "'we have a new robot for 2019. we will be open to the public tomorrow. we will be open to the public tomorrow. we will be open to the public",
+        "Basalt_caption_coco_enrich": "A toy robot with blue wheels and a white helmet is riding on top of a chalkboard."
+    },
+    "03.jpg":
+    {
+        "Basalt_large": "'this is the robot i'm working on. it's not a real robot, it's a real robot.'",
+        "Basalt_caption_coco_enrich": "A white toy robot sitting on top of a rock."
+    },
+    "04.jpg":
+    {
+        "Basalt_large": "person from the movie ``pokemon detective pikachu''. pikachu, pokemon, fictional characters, art, art background, person, art journaling, fantasy characters",
+        "Basalt_caption_coco_enrich": "A toy robot is sitting on top of a rock."
+    }
+}

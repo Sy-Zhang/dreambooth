@@ -1,0 +1,27 @@
+{
+    "00.jpg":
+    {
+        "Basalt_large": "ginger cat in the garden",
+        "Basalt_caption_coco_enrich": "An orange cat is sitting on the ground in front of some plants."
+    },
+    "01.jpg":
+    {
+        "Basalt_large": "ginger cat sitting in the grass",
+        "Basalt_caption_coco_enrich": "An orange cat is sitting on the ground with grass."
+    },
+    "02.jpg":
+    {
+        "Basalt_large": "cat in the dark wallpapers and images wallpapers pictures 1920x1200",
+        "Basalt_caption_coco_enrich": "A cat, which is a mammal, is sitting on the ground with grass."
+    },
+    "03.jpg":
+    {
+        "Basalt_large": "cat sitting on the ground wallpapers and images wallpapers 1920x1200",
+        "Basalt_caption_coco_enrich": "A cat, which is a mammal, is sitting on the ground with leaves."
+    },
+    "04.jpg":
+    {
+        "Basalt_large": "ginger cat in the dark wallpaper",
+        "Basalt_caption_coco_enrich": "An orange cat with yellow eyes is sitting on the ground."
+    }
+}

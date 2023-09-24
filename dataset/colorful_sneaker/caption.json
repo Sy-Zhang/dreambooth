@@ -1,0 +1,27 @@
+{
+    "00.jpg":
+    {
+        "Basalt_large": "this image may contain clothing shoe footwear apparel sneaker and running shoe",
+        "Basalt_caption_coco_enrich": "The footwear, which is a sneaker, is sitting on the edge of the water."
+    },
+    "01.jpg":
+    {
+        "Basalt_large": "adidas superstar sneakers in the 0",
+        "Basalt_caption_coco_enrich": "The Adidas sneaker, which is a type of footwear, is on the ground."
+    },
+    "02.jpg":
+    {
+        "Basalt_large": "adidas superstar sneakers in the 0",
+        "Basalt_caption_coco_enrich": "The footwear, which is a sneaker, is sitting on the grass."
+    },
+    "03.jpg":
+    {
+        "Basalt_large": "a sneaker on a park bench",
+        "Basalt_caption_coco_enrich": "A white and purple sneaker is sitting on top of a green bench."
+    },
+    "04.jpg":
+    {
+        "Basalt_large": "adidas person, adidas sneakers, adidas originals, the originals, person, person, adidas originals, terrace, trainers",
+        "Basalt_caption_coco_enrich": "The footwear, which is a sneaker, is on the ground in front of a brick wall."
+    }
+}

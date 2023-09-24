@@ -1,0 +1,32 @@
+{
+    "00.jpg":
+    {
+        "Basalt_large": "sunglasses and flowers on a white bed sheet",
+        "Basalt_caption_coco_enrich": "A pair of sunglasses with pink frames and pink flowers on top of a white cloth."
+    },
+    "01.jpg":
+    {
+        "Basalt_large": "metallic frame sunglasses details of the article 3",
+        "Basalt_caption_coco_enrich": "The accessory, which is a pair of sunglasses, is made from metal and has red lenses."
+    },
+    "02.jpg":
+    {
+        "Basalt_large": "``the writer'' vintage sunglasses for women",
+        "Basalt_caption_coco_enrich": "A pair of sunglasses with gold frames and black lenses on top of a pink cloth."
+    },
+    "03.jpg":
+    {
+        "Basalt_large": "a picture of aviator sunglasses on a bed.",
+        "Basalt_caption_coco_enrich": "A pair of sunglasses, which are a type of accessory, are on top of a white cloth."
+    },
+    "04.jpg":
+    {
+        "Basalt_large": "``the classic '' anti blue light glasses unisex",
+        "Basalt_caption_coco_enrich": "A pair of sunglasses with gold frames and pink lenses is on top of a pink cloth."
+    },
+    "05.jpg":
+    {
+        "Basalt_large": "a pair of aviator sunglasses on a bed",
+        "Basalt_caption_coco_enrich": "A pair of sunglasses with pink frames, a glass, and a lemon on top of a bed."
+    }
+}

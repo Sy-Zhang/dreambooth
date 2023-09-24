@@ -1,0 +1,26 @@
+{
+    "00.jpg":
+    {
+        "Basalt_large": "pembroke welsh corgi on a walk",
+        "Basalt_caption_coco_enrich": "A close-up photo of a brown and white dog with its tongue out."
+    },
+    "01.jpg":
+    {
+        "Basalt_large": "pembroke welsh corgi sitting on a wall with blossoms in the background",
+        "Basalt_caption_coco_enrich": "A dog, which is a corgi, is sitting on top of a concrete wall with its tongue out."
+    },
+    "02.jpg":{
+        "Basalt_large": "pembroke welsh corgi sitting on a wall",
+        "Basalt_caption_coco_enrich": "A dog, which is a corgi, is sitting on top of a white wall."
+    },
+    "03.jpg":
+    {
+        "Basalt_large": "pembroke welsh corgi sitting on a wall",
+        "Basalt_caption_coco_enrich": "A brown and white dog is sitting on top of a white wall."
+    },
+    "04.jpg":
+    {
+        "Basalt_large": "pembroke welsh corgi in the park",
+        "Basalt_caption_coco_enrich": "A dog, which is a corgi, is sitting on the ground with its tongue out."
+    }
+}

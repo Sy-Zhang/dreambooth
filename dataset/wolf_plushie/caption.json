@@ -1,0 +1,27 @@
+{
+    "00.jpg":
+    {
+        "Basalt_large": "person the siberian husky dog",
+        "Basalt_caption_coco_enrich": "A stuffed animal, which is a gray and white husky, is sitting on top of a rock."
+    },
+    "01.jpg":
+    {
+        "Basalt_large": "husky dog in the grass",
+        "Basalt_caption_coco_enrich": "A stuffed animal, which is a gray and white husky, is lying on the grass."
+    },
+    "02.jpg":
+    {
+        "Basalt_large": "husky dog in the grass",
+        "Basalt_caption_coco_enrich": "A stuffed animal, which is a gray and white husky, is lying on the grass near a tree."
+    },
+    "03.jpg":
+    {
+        "Basalt_large": "husky dog on a park bench",
+        "Basalt_caption_coco_enrich": "A stuffed dog with a red ribbon on its neck is sitting on a green bench."
+    },
+    "04.jpg":
+    {
+        "Basalt_large": "build a bear siberian husky dog",
+        "Basalt_caption_coco_enrich": "A stuffed toy dog with a red ribbon on its neck is sitting on the ground in front of a brick wall."
+    }
+}

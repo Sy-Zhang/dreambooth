@@ -1,0 +1,27 @@
+{
+    "00.jpg":
+    {
+        "Basalt_large": "person the snail from toy story 3",
+        "Basalt_caption_coco_enrich": "A small chocolate slime with eyes and a smiley face is sitting on the ground."
+    },
+    "01.jpg":
+    {
+        "Basalt_large": "person in the grass",
+        "Basalt_caption_coco_enrich": "A small brown toy snail with big eyes is sitting on the grass."
+    },
+    "02.jpg":
+    {
+        "Basalt_large": "mr. person in the grass",
+        "Basalt_caption_coco_enrich": "A small brown toy is sitting on top of the grass in front of a tree."
+    },
+    "03.jpg":
+    {
+        "Basalt_large": "person on a park bench",
+        "Basalt_caption_coco_enrich": "a small pink rock sitting on top of a green bench."
+    },
+    "04.jpg":
+    {
+        "Basalt_large": "this item is unavailable polymer clay figures, polymer clay charms, polymer clay projects, polymer clay creations, polymer clay art, clay crafts, polymer clay creations, clay ideas, clay crafts",
+        "Basalt_caption_coco_enrich": "A small brown toy with big eyes and a smiling face is sitting on the ground in front of a brick wall."
+    }
+}

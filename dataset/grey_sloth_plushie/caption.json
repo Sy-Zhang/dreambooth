@@ -1,0 +1,27 @@
+{
+    "00.jpg":
+    {
+        "Basalt_large": "person the sloth soft toy",
+        "Basalt_caption_coco_enrich": "A stuffed animal, which is a sloth, is sitting on the grass next to a tree."
+    },
+    "01.jpg":
+    {
+        "Basalt_large": "person the giant sloth plush toy",
+        "Basalt_caption_coco_enrich": "A stuffed animal, which is a sloth, is sitting on the edge of a river with a city in the background."
+    },
+    "02.jpg":
+    {
+        "Basalt_large": "person the giant sloth plush toy",
+        "Basalt_caption_coco_enrich": "A stuffed animal, which is a sloth, is sitting on the edge of a river with a city in the background."
+    },
+    "03.jpg":
+    {
+        "Basalt_large": "person the sloth beanie baby",
+        "Basalt_caption_coco_enrich": "A stuffed animal, which is a sloth, is sitting on top of a green bench."
+    },
+    "04.jpg":
+    {
+        "Basalt_large": "build a bear workshop sloth",
+        "Basalt_caption_coco_enrich": "A stuffed animal, which is a sloth, is sitting on the ground."
+    }
+}

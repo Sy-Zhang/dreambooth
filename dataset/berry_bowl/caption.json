@@ -1,0 +1,32 @@
+{
+    "00.jpg":
+    {
+        "Basalt_large": "blueberries in a measuring cup",
+        "Basalt_caption_coco_enrich": "A white bowl filled with blueberries with the words \"Bon Apeti\" on it."
+    },
+    "01.jpg":
+    {
+        "Basalt_large": "bowl of blueberries on a white sheet",
+        "Basalt_caption_coco_enrich": "A white bowl filled with blueberries with the words \"Bon Apetit\" on it."
+    },
+    "02.jpg":
+    {
+        "Basalt_large": "blueberries in a bowl on a white background",
+        "Basalt_caption_coco_enrich": "A white bowl filled with blueberries is placed on top of a white cloth."
+    },
+    "03.jpg":
+    {
+        "Basalt_large": "blueberries in a bowl on a white sheet",  
+        "Basalt_caption_coco_enrich": "A white bowl filled with blueberries with the words \"Bon Apetit\" on it." 
+    },
+    "04.jpg":
+    {
+        "Basalt_large": "bowl of fresh blueberries on a white sheet",
+        "Basalt_caption_coco_enrich": "A white bowl filled with blueberries with the words \"Bon Apetit\" on it."
+    },
+    "05.jpg":
+    {
+        "Basalt_large": "blueberries in a paper cup",
+        "Basalt_caption_coco_enrich": "A white bowl filled with blueberries, which is a fruit, is placed on top of a white cloth."
+    }
+}

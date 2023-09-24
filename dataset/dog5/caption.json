@@ -1,0 +1,27 @@
+{
+    "00.jpg":
+    {
+        "Basalt_large": "person the dachshund on the couch",
+        "Basalt_caption_coco_enrich": "A brown dog is lying on top of a green couch with a blanket."
+    },
+    "01.jpg":
+    {
+        "Basalt_large": "dog on the back of the couch",
+        "Basalt_caption_coco_enrich": "A brown dog is lying on the back of a green couch with a blanket and a lamp on the side."
+    },
+    "02.jpg":
+    {
+        "Basalt_large": "choosing the right window treatment for your pet",
+        "Basalt_caption_coco_enrich": "A brown dachshund dog is sitting on top of a couch with pillows."
+    },
+    "03.jpg":
+    {
+        "Basalt_large": "dachshund dog on the back of a couch",
+        "Basalt_caption_coco_enrich": "A brown dachshund dog is sitting on top of a gray couch with a green pillow."
+    },
+    "04.jpg":
+    {
+        "Basalt_large": "lifestyle blogger person of the grey edit holiday gift guide 2019",
+        "Basalt_caption_coco_enrich": "A brown dog is sitting on top of a bed with a gray blanket."
+    }
+}

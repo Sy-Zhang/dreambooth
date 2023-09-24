@@ -1,0 +1,32 @@
+{
+    "00.jpg":
+    {
+        "Basalt_large": "a hand holding an alarm clock",
+        "Basalt_caption_coco_enrich": "A person's hand is holding up a yellow alarm clock."
+    },
+    "01.jpg":
+    {
+        "Basalt_large": "a hand holding an alarm clock",
+        "Basalt_caption_coco_enrich": "A person's hand is holding a yellow alarm clock with a black wristwatch."
+    },
+    "02.jpg":
+    {
+        "Basalt_large": "a yellow alarm clock on a bed.",
+        "Basalt_caption_coco_enrich": "A yellow alarm clock with the number 3 on it is on top of a white bed."
+    },
+    "03.jpg":
+    {
+        "Basalt_large": "yellow alarm clock on a white background",
+        "Basalt_caption_coco_enrich": "A yellow alarm clock with a white face and black numbers is sitting on top of a white sheet."
+    },
+    "04.jpg":
+    {
+        "Basalt_large": "yellow alarm clock on a white background",
+        "Basalt_caption_coco_enrich": "A yellow alarm clock with the number three on it is placed on top of a white cloth."
+    },
+    "05.jpg":
+    {
+        "Basalt_large": "yellow alarm clock on a white background",
+        "Basalt_caption_coco_enrich": "A yellow alarm clock is sitting on top of a white sheet."
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "00.jpg":
+    {
+        "Basalt_large": "person the nova scotia duck tolling retriever",
+        "Basalt_caption_coco_enrich": "A brown dog, which is a pet animal, is lying on the ground in the woods."
+    },
+    "01.jpg":
+    {
+        "Basalt_large": "nova scotia duck tolling retriever | the ultimate dog breeds list | pet symptoms guide",
+        "Basalt_caption_coco_enrich": "A dog, which is a golden retriever, is lying on the ground with its tongue out."
+    },
+    "02.jpg":
+    {
+        "Basalt_large": "a dog on the beach at sunset",
+        "Basalt_caption_coco_enrich": "A dog is standing on the beach with its tongue out."
+    },
+    "03.jpg":
+    {
+        "Basalt_large": "a dog playing in the water",
+        "Basalt_caption_coco_enrich": "A dog, which is a retriever, is standing in the water at the beach."
+    },
+    "04.jpg":
+    {
+        "Basalt_large": "a dog in a field of flowers",
+        "Basalt_caption_coco_enrich": "A dog, which is a golden retriever, is sitting in the middle of a field of purple flowers."
+    }
+}

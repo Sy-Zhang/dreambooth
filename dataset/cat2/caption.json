@@ -1,0 +1,27 @@
+{
+    "00.jpg":
+    {
+        "Basalt_large": "this is my cat person. he is a blue chartreux. he is a blue chartreux. he is a blue chartreux. he is a blue chartreux. he is a blue chartreux.",
+        "Basalt_caption_coco_enrich": "A gray cat with yellow eyes is sitting on the floor."
+    },
+    "01.jpg":
+    {
+        "Basalt_large": "russian blue cat lying on the floor",
+        "Basalt_caption_coco_enrich": "A gray cat is lying on the floor with its paws on a leash."
+    },
+    "02.jpg":
+    {
+        "Basalt_large": "russian blue cat lying on a bed",
+        "Basalt_caption_coco_enrich": "A gray cat with green eyes is lying on top of a bed."
+    },
+    "03.jpg":
+    {
+        "Basalt_large": "grey cat sitting next to a vase of flowers",
+        "Basalt_caption_coco_enrich": "A gray cat is sitting on top of a white table next to a vase with pink flowers."
+    },
+    "04.jpg":
+    {
+        "Basalt_large": "russian blue cat lying on a window sill",
+        "Basalt_caption_coco_enrich": "A gray cat laying on top of a black blanket next to a window."
+    }
+}

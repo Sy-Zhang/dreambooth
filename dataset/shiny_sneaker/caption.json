@@ -1,0 +1,32 @@
+{
+    "00.jpg":
+    {
+        "Basalt_large": "this image may contain clothing shoe footwear apparel running shoe and sneaker",
+        "Basalt_caption_coco_enrich": "A footwear, which is a colorful sneaker, is sitting on top of a rock."
+    },
+    "01.jpg":
+    {
+        "Basalt_large": "this image may contain clothing footwear apparel shoe running shoe and sneaker",
+        "Basalt_caption_coco_enrich": "The footwear is a sneaker with a holographic design on the side of a body of water."
+    },
+    "02.jpg":
+    {
+        "Basalt_large": "these holographic sneakers 0",
+        "Basalt_caption_coco_enrich": "The footwear is a white and blue sneaker with a holographic design on it."
+    },
+    "03.jpg":
+    {
+        "Basalt_large": "this is a 0",
+        "Basalt_caption_coco_enrich": "The footwear is a sneaker with a colorful design on the grass."
+    },
+    "04.jpg":
+    {
+        "Basalt_large": "a shoe on a park bench",
+        "Basalt_caption_coco_enrich": "A footwear, which is a sneaker, is sitting on top of a green bench."
+    },
+    "05.jpg":
+    {
+        "Basalt_large": "this is a brand new 0",
+        "Basalt_caption_coco_enrich": "The footwear is a white and blue sneaker with a holographic design on it."
+    }
+}

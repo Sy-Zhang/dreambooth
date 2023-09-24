@@ -1,0 +1,27 @@
+{
+    "00.jpg":
+    {
+        "Basalt_large": "dog backpack on a window sill",
+        "Basalt_caption_coco_enrich": "A brown and blue backpack with a dog face on it is sitting on the window sill."
+    },
+    "01.jpg":
+    {
+        "Basalt_large": "dog backpack in front of a window",
+        "Basalt_caption_coco_enrich": "A backpack with a dog face on it is sitting on a window sill with a view of the city."
+    },
+    "02.jpg":
+    {
+        "Basalt_large": "dog backpack on a table",
+        "Basalt_caption_coco_enrich": "A gray backpack with a dog face on it is sitting on top of a wooden table."
+    },
+    "03.jpg":
+    {
+        "Basalt_large": "dog backpack on a fence",
+        "Basalt_caption_coco_enrich": "A gray backpack with a brown nose is sitting on top of a fence."
+    },
+    "04.jpg":
+    {
+        "Basalt_large": "dog backpack on the grass",
+        "Basalt_caption_coco_enrich": "A backpack with a dog face on it is sitting on the grass."
+    }
+}

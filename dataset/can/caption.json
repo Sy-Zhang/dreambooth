@@ -1,0 +1,32 @@
+{
+    "00.jpg":
+    {
+        "Basalt_large": "a can of transatlantic ipa with a whale on it.",
+        "Basalt_caption_coco_enrich": "A can of \"Transatlantic PPA\" beer is sitting on top of a concrete block."
+    },
+    "01.jpg":
+    {
+        "Basalt_large": "a can of transatlantic ipa with a whale on it.",
+        "Basalt_caption_coco_enrich": "An image of a beer can with the words \"Transatlantic IPA\" and an image of a whale on it."
+    },
+    "02.jpg":
+    {
+        "Basalt_large": "a can of misaki whale beer on a frozen lake.",
+        "Basalt_caption_coco_enrich": "An image of a can of beer with a whale on it is sitting on top of a frozen lake."
+    },
+    "03.jpg":
+    {
+        "Basalt_large": "thanksgiving beer of the month club",
+        "Basalt_caption_coco_enrich": "A can of beer, which is a beverage, is sitting on the ground in front of some houses."
+    },
+    "04.jpg":
+    {
+        "Basalt_large": "a can of titan tail whale ipa next to a glass of beer.",
+        "Basalt_caption_coco_enrich": "A can of beer with the words \"Transataling IPPA\" is next to a glass of beer on top of a wooden table."
+    },
+    "05.jpg":
+    {
+        "Basalt_large": "beer of the week: japanese ipa",
+        "Basalt_caption_coco_enrich": "A can of beer and a glass of beer on top of a rock with a person in a boat in the background."
+    }
+}

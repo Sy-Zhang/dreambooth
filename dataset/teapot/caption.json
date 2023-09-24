@@ -1,0 +1,27 @@
+{
+    "00.jpg":
+    {
+        "Basalt_large": "teapot on a wooden table",
+        "Basalt_caption_coco_enrich": "A brown teapot on a plate with a leaf and a white rose on the side."
+    },
+    "01.jpg":
+    {
+        "Basalt_large": "teapot and cup on a wooden bench",
+        "Basalt_caption_coco_enrich": "A brown teapot and a white cup are placed on top of a wooden table."
+    },
+    "02.jpg":
+    {
+        "Basalt_large": "3 teapots and a cup of tea",
+        "Basalt_caption_coco_enrich": "A brown teapot and a cup of tea are on top of a wooden table."
+    },
+    "03.jpg":
+    {
+        "Basalt_large": "a teapot and a cup on a table.",
+        "Basalt_caption_coco_enrich": "A brown teapot and a cup are placed on top of a wooden table."
+    },
+    "04.jpg":
+    {
+        "Basalt_large": "a chinese teapot and a cup of tea.",
+        "Basalt_caption_coco_enrich": "A brown teapot and a white cup are on top of a black box on top of a wooden table."
+    }
+}

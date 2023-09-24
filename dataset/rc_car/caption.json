@@ -1,0 +1,27 @@
+{
+    "00.jpg":
+    {
+        "Basalt_large": "roary the racing car toy",
+        "Basalt_caption_coco_enrich": "A toy car with a person riding on it is sitting on top of a concrete wall."
+    },
+    "01.jpg":
+    {
+        "Basalt_large": "roary the racing car from fisher price",
+        "Basalt_caption_coco_enrich": "A toy car with a person wearing a helmet is on the floor."
+    },
+    "02.jpg":
+    {
+        "Basalt_large": "person in a toy car",
+        "Basalt_caption_coco_enrich": "A toy car with a person riding on it is sitting on top of an orange table with a blue car in the background."
+    },
+    "03.jpg":
+    {
+        "Basalt_large": "roary the racing car by fisher price",
+        "Basalt_caption_coco_enrich": "A toy car with a person riding on it is on top of a gray carpet."
+    },
+    "04.jpg":
+    {
+        "Basalt_large": "roary the builder toy car",
+        "Basalt_caption_coco_enrich": "A toy boy is driving a toy car on the road with grass in the background."
+    }
+}
