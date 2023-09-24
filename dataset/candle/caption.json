@@ -1,0 +1,27 @@
+{
+    "00.jpg":
+    {
+        "Basalt_large": "this is a photo of a candle sitting on a rock in a park.",
+        "Basalt_caption_coco_enrich": "A jar of cream is sitting on top of a rock."
+    },
+    "01.jpg":
+    {
+        "Basalt_large": "the body shop virgin mojito body butter",
+        "Basalt_caption_coco_enrich": "A jar of white cream is sitting on top of a green table."
+    },
+    "02.jpg":
+    {
+        "Basalt_large": "the body shop fuji green tea body butter review",
+        "Basalt_caption_coco_enrich": "A white jar with a brown lid is sitting on the grass."
+    },
+    "03.jpg":
+    {
+        "Basalt_large": "the body shop fuji green tea body butter",
+        "Basalt_caption_coco_enrich": "A jar of cream with a wooden lid is sitting on the grass in front of a tree."
+    },
+    "04.jpg":
+    {
+        "Basalt_large": "this is a candle i made for my boyfriend. it's a white candle with a wooden lid.",
+        "Basalt_caption_coco_enrich": "A jar of white cream with a wooden lid is sitting on the ground in front of a brick wall."
+    }
+}
